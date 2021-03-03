@@ -5,12 +5,14 @@ Frens,
 Here is a list of all the software that was requested.
 
 **Grammarly Premium**: The technology ministry will do its best to make it available, at least, on the library computers. 
+    
     - Update: due to the COVID situation, public computers are not accessible and so, we cannot provide access on library computers
 
 **Microsoft Office:** The full suite is freely available for Ashokans here. However, the desktop apps are not freely available. If you believe the desktop version is essential to your work, please email [IT](mailto:it.helpdesk@ashoka.edu.in) and they will provide you with access.
     - Update: [OpenOffice](http://www.openoffice.org/) is a good free alternative to MS Office
 
 **Apps related to video editing, Final Cut Pro:** Final Cut Pro is super expensive. I'm sorry, we won't be able to accommodate that. However, the Adobe suite we get will have Premiere Pro.
+    
     - Update: due to the COVID situation, public computers are not accessible and so, we cannot provide access on library computers
     - Update: [DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve/). A full-featured Hollywood-grade video editor with everything in Final Cut Pro and more. It's also completely free.
     - Update: Lightworks and Hitfilm are free as well.
