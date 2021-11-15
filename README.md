@@ -1,4 +1,4 @@
-# List of Available Software for Ashokans
+# List of E-resources for Ashokans
 
 Frens,
 
