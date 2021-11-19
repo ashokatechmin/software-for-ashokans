@@ -1,8 +1,8 @@
 # List of E-resources for Ashokans
 
-Frens,
+Friends, 
 
-Here is a list of all the software that was requested.
+Here is a list of all the software that you can avail. Please email **technology.ministry@ashoka.edu.in** for any queries. 
 
 **Grammarly Premium**: The technology ministry will do its best to make it available, at least, on the library computers. 
     
