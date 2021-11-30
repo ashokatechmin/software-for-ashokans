@@ -36,7 +36,7 @@ Here is a list of all the software that you can avail. Please email [Ministry of
 
 **Houdini, Blender, Cinema 4D:** Blender is open-source & freely available. Free student licenses are available for Cinema 4D. Houdini, also has a free version.
 
-**Zoom for students:** Can I interest you in a [!Google Meet](https://hangouts.google.com/webchat/start)?
+**Zoom for students:** Can I interest you in a [Google Meet](https://hangouts.google.com/webchat/start)?
 
 **JStor:** Please do take it up with the library & Academic Affairs Ministry
 
