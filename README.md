@@ -46,6 +46,8 @@ Here is a list of all the software that you can avail. Please email [Ministry of
 
 **Purdue Owl's Plagiarism Checker:** Couldn't find it, maybe reply with a link?
 
+**Good Plagiarism Checkers:** https://papersowl.com/free-plagiarism-checker 
+
 **Thank you so much:** No, thank you for the feedback
 
 ## Missing some software?
