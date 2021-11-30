@@ -36,7 +36,7 @@ Here is a list of all the software that you can avail. Please email [Ministry of
 
 **Houdini, Blender, Cinema 4D:** Blender is open-source & freely available. Free student licenses are available for Cinema 4D. Houdini, also has a free version.
 
-**Zoom for students:** Can I interest you in a [Google Meet](https://hangouts.google.com/webchat/start)?
+**Zoom for students:** Can I interest you in a [!Google Meet](https://hangouts.google.com/webchat/start)?
 
 **JStor:** Please do take it up with the library & Academic Affairs Ministry
 
@@ -45,6 +45,8 @@ Here is a list of all the software that you can avail. Please email [Ministry of
 **FL Studio:** Steeeep. LMMS & Ardour come up as good free alternatives. Hopefully they work well for you?
 
 **Purdue Owl's Plagiarism Checker:** Couldn't find it, maybe reply with a link?
+
+**Good Plagiarism Checkers:** https://papersowl.com/free-plagiarism-checker 
 
 **Thank you so much:** No, thank you for the feedback
 
